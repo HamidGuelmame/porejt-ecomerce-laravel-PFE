@@ -1,0 +1,10 @@
+
+Email   : admin@mail.com
+Password: admin123
+
+--User Login Details---
+Email   : customer@mail.com
+Password: user123
+
+
+
